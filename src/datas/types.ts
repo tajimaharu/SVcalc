@@ -1,0 +1,21 @@
+const TYPES = [
+  { name: "ノーマル", icon: "/types/normal.png" },
+  { name: "ほのお", icon: "/types/fire.png" },
+  { name: "みず", icon: "/types/water.png" },
+  { name: "でんき", icon: "/types/electric.png" },
+  { name: "くさ", icon: "/types/grass.png" },
+  { name: "こおり", icon: "/types/ice.png" },
+  { name: "かくとう", icon: "/types/fighting.png" },
+  { name: "どく", icon: "/types/poison.png" },
+  { name: "じめん", icon: "/types/ground.png" },
+  { name: "ひこう", icon: "/types/flying.png" },
+  { name: "エスパー", icon: "/types/psychic.png" },
+  { name: "むし", icon: "/types/bug.png" },
+  { name: "いわ", icon: "/types/rock.png" },
+  { name: "ゴースト", icon: "/types/ghost.png" },
+  { name: "ドラゴン", icon: "/types/dragon.png" },
+  { name: "あく", icon: "/types/dark.png" },
+  { name: "はがね", icon: "/types/steel.png" },
+  { name: "フェアリー", icon: "/types/fairy.png" },
+] as const;
+export default TYPES;
