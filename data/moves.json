@@ -1,0 +1,5066 @@
+[
+    {
+        "Name": "3ぼんのや",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 90,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "アーマーキャノン",
+        "Type": "ほのお",
+        "Category": "特殊",
+        "Power": 120,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "アームハンマー",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 100,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "アイアンテール",
+        "Type": "はがね",
+        "Category": "物理",
+        "Power": 100,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "アイアンヘッド",
+        "Type": "はがね",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "アイアンローラー",
+        "Type": "はがね",
+        "Category": "物理",
+        "Power": 130,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "アイススピナー",
+        "Type": "こおり",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "アイスハンマー",
+        "Type": "こおり",
+        "Category": "物理",
+        "Power": 100,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "アクアカッター",
+        "Type": "みず",
+        "Category": "物理",
+        "Power": 70,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "アクアジェット",
+        "Type": "みず",
+        "Category": "物理",
+        "Power": 40,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "アクアステップ",
+        "Type": "みず",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "アクアテール",
+        "Type": "みず",
+        "Category": "物理",
+        "Power": 90,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "アクアブレイク",
+        "Type": "みず",
+        "Category": "物理",
+        "Power": 85,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "アクアリング",
+        "Type": "みず",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "あくうせつだん",
+        "Type": "ドラゴン",
+        "Category": "特殊",
+        "Power": 100,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "アクセルブレイク",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 100,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "アクセルロック",
+        "Type": "いわ",
+        "Category": "物理",
+        "Power": 40,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "あくのはどう",
+        "Type": "あく",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "あくび",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "アクロバット",
+        "Type": "ひこう",
+        "Category": "物理",
+        "Power": 55,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "あさのひざし",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "アシストパワー",
+        "Type": "エスパー",
+        "Category": "特殊",
+        "Power": 20,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "アシッドボム",
+        "Type": "どく",
+        "Category": "特殊",
+        "Power": 40,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "アストラルビット",
+        "Type": "ゴースト",
+        "Category": "特殊",
+        "Power": 120,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "あなをほる",
+        "Type": "じめん",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "あばれる",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "あまいかおり",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "あまえる",
+        "Type": "フェアリー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "あまごい",
+        "Type": "みず",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "あやしいひかり",
+        "Type": "ゴースト",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "アロマミスト",
+        "Type": "フェアリー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "アンコール",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "あんこくきょうだ",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": 75,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "いあいぎり",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 50,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "いえき",
+        "Type": "どく",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "イカサマ",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": 95,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "いかりのこな",
+        "Type": "むし",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "いかりのまえば",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": null,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "いじげんホール",
+        "Type": "エスパー",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "いじげんラッシュ",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": 100,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "いたみわけ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "いちゃもん",
+        "Type": "あく",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "いっちょうあがり",
+        "Type": "ドラゴン",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "いてつくしせん",
+        "Type": "エスパー",
+        "Category": "特殊",
+        "Power": 90,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "いとをはく",
+        "Type": "むし",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "イナズマドライブ",
+        "Type": "でんき",
+        "Category": "特殊",
+        "Power": 100,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "いにしえのうた",
+        "Type": "ノーマル",
+        "Category": "特殊",
+        "Power": 75,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "いのちがけ",
+        "Type": "かくとう",
+        "Category": "特殊",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "いのちのしずく",
+        "Type": "みず",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "いばる",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "いびき",
+        "Type": "ノーマル",
+        "Category": "特殊",
+        "Power": 50,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "いやしのすず",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "いやしのねがい",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "いやしのはどう",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "いやなおと",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "いわおとし",
+        "Type": "いわ",
+        "Category": "物理",
+        "Power": 50,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "いわくだき",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 40,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "いわなだれ",
+        "Type": "いわ",
+        "Category": "物理",
+        "Power": 75,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "インファイト",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ウェーブタックル",
+        "Type": "みず",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ウェザーボール",
+        "Type": "ノーマル",
+        "Category": "特殊",
+        "Power": 50,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "うずしお",
+        "Type": "みず",
+        "Category": "特殊",
+        "Power": 35,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "うそなき",
+        "Type": "あく",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "うたう",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "うちおとす",
+        "Type": "いわ",
+        "Category": "物理",
+        "Power": 50,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ウッドハンマー",
+        "Type": "くさ",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ウッドホーン",
+        "Type": "くさ",
+        "Category": "物理",
+        "Power": 75,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "うっぷんばらし",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": 75,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "うつしえ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "うらみ",
+        "Type": "ゴースト",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "うらみつらみ",
+        "Type": "ゴースト",
+        "Category": "特殊",
+        "Power": 75,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "エアカッター",
+        "Type": "ひこう",
+        "Category": "特殊",
+        "Power": 60,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "エアスラッシュ",
+        "Type": "ひこう",
+        "Category": "特殊",
+        "Power": 75,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "エコーボイス",
+        "Type": "ノーマル",
+        "Category": "特殊",
+        "Power": 40,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "えだづき",
+        "Type": "くさ",
+        "Category": "物理",
+        "Power": 40,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "エナジーボール",
+        "Type": "くさ",
+        "Category": "特殊",
+        "Power": 90,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "エレキネット",
+        "Type": "でんき",
+        "Category": "特殊",
+        "Power": 55,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "エレキフィールド",
+        "Type": "でんき",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "エレキボール",
+        "Type": "でんき",
+        "Category": "特殊",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "えんまく",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "オーバードライブ",
+        "Type": "でんき",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "オーバーヒート",
+        "Type": "ほのお",
+        "Category": "特殊",
+        "Power": 130,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "オーラウイング",
+        "Type": "エスパー",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "オーロラビーム",
+        "Type": "こおり",
+        "Category": "特殊",
+        "Power": 65,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "オーロラベール",
+        "Type": "こおり",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "おいかぜ",
+        "Type": "ひこう",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "おいわい",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "おかたづけ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "おきみやげ",
+        "Type": "あく",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "おさきにどうぞ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "おたけび",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "おだてる",
+        "Type": "あく",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "おちゃかい",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "おどろかす",
+        "Type": "ゴースト",
+        "Category": "物理",
+        "Power": 30,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "おにび",
+        "Type": "ほのお",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "おはかまいり",
+        "Type": "ゴースト",
+        "Category": "物理",
+        "Power": 50,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "かいでんぱ",
+        "Type": "でんき",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "かいりき",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "カウンター",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": null,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "かえんぐるま",
+        "Type": "ほのお",
+        "Category": "物理",
+        "Power": 60,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "かえんほうしゃ",
+        "Type": "ほのお",
+        "Category": "特殊",
+        "Power": 90,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "かえんボール",
+        "Type": "ほのお",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "かかとおとし",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "かげうち",
+        "Type": "ゴースト",
+        "Category": "物理",
+        "Power": 40,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "かげぬい",
+        "Type": "ゴースト",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "かげぶんしん",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "かぜおこし",
+        "Type": "ひこう",
+        "Category": "特殊",
+        "Power": 40,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "かたきうち",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 70,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "かたくなる",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "カタストロフィ",
+        "Type": "あく",
+        "Category": "特殊",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "かなしばり",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "かふんだんご",
+        "Type": "むし",
+        "Category": "特殊",
+        "Power": 90,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "かみくだく",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "かみつく",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": 60,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "かみなり",
+        "Type": "でんき",
+        "Category": "特殊",
+        "Power": 110,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "かみなりあらし",
+        "Type": "でんき",
+        "Category": "特殊",
+        "Power": 100,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "かみなりのキバ",
+        "Type": "でんき",
+        "Category": "物理",
+        "Power": 65,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "かみなりパンチ",
+        "Type": "でんき",
+        "Category": "物理",
+        "Power": 75,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "からげんき",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 70,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "からにこもる",
+        "Type": "みず",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "からをやぶる",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "かわらわり",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 75,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ガードシェア",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ガードスワップ",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "がむしゃら",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": null,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ガリョウテンセイ",
+        "Type": "ひこう",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "がんせきアックス",
+        "Type": "いわ",
+        "Category": "物理",
+        "Power": 65,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "がんせきふうじ",
+        "Type": "いわ",
+        "Category": "物理",
+        "Power": 60,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "きあいだま",
+        "Type": "かくとう",
+        "Category": "特殊",
+        "Power": 120,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "きあいだめ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "きあいパンチ",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 150,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "きしかいせい",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": null,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "キノコのほうし",
+        "Type": "くさ",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "きゅうけつ",
+        "Type": "むし",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "きょけんとつげき",
+        "Type": "ドラゴン",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "きょじゅうざん",
+        "Type": "はがね",
+        "Category": "物理",
+        "Power": 100,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "きょじゅうだん",
+        "Type": "はがね",
+        "Category": "物理",
+        "Power": 100,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "キラースピン",
+        "Type": "どく",
+        "Category": "物理",
+        "Power": 30,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "きりさく",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 70,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "きりばらい",
+        "Type": "ひこう",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "きんぞくおん",
+        "Type": "はがね",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ギアチェンジ",
+        "Type": "はがね",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ギガインパクト",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 150,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ギガドレイン",
+        "Type": "くさ",
+        "Category": "特殊",
+        "Power": 75,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "クイックターン",
+        "Type": "みず",
+        "Category": "物理",
+        "Power": 60,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "くさのちかい",
+        "Type": "くさ",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "くさむすび",
+        "Type": "くさ",
+        "Category": "特殊",
+        "Power": null,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "くさわけ",
+        "Type": "くさ",
+        "Category": "物理",
+        "Power": 50,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "くすぐる",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "くらいつく",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "クラブハンマー",
+        "Type": "みず",
+        "Category": "物理",
+        "Power": 100,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "クリアスモッグ",
+        "Type": "どく",
+        "Category": "特殊",
+        "Power": 50,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "くろいきり",
+        "Type": "こおり",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "くろいまなざし",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "クロスチョップ",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 100,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "クロスポイズン",
+        "Type": "どく",
+        "Category": "物理",
+        "Power": 70,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "クロロブラスト",
+        "Type": "くさ",
+        "Category": "特殊",
+        "Power": 150,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "グラススライダー",
+        "Type": "くさ",
+        "Category": "物理",
+        "Power": 60,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "グラスフィールド",
+        "Type": "くさ",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "けたぐり",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": null,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "げきりん",
+        "Type": "ドラゴン",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ゲップ",
+        "Type": "どく",
+        "Category": "特殊",
+        "Power": 120,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "げんしのちから",
+        "Type": "いわ",
+        "Category": "特殊",
+        "Power": 60,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "コーチング",
+        "Type": "かくとう",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "コートチェンジ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "こうげきしれい",
+        "Type": "むし",
+        "Category": "物理",
+        "Power": 90,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "こうごうせい",
+        "Type": "くさ",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "こうそくいどう",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "こうそくスピン",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 50,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "こおりのいぶき",
+        "Type": "こおり",
+        "Category": "特殊",
+        "Power": 60,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "こおりのキバ",
+        "Type": "こおり",
+        "Category": "物理",
+        "Power": 65,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "こおりのつぶて",
+        "Type": "こおり",
+        "Category": "物理",
+        "Power": 40,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "こがらしあらし",
+        "Type": "ひこう",
+        "Category": "特殊",
+        "Power": 100,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "こごえるかぜ",
+        "Type": "こおり",
+        "Category": "特殊",
+        "Power": 55,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "コスモパワー",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "コットンガード",
+        "Type": "くさ",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "こなゆき",
+        "Type": "こおり",
+        "Category": "特殊",
+        "Power": 40,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "このは",
+        "Type": "くさ",
+        "Category": "物理",
+        "Power": 40,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "このゆびとまれ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "コメットパンチ",
+        "Type": "はがね",
+        "Category": "物理",
+        "Power": 90,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "こらえる",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ころがる",
+        "Type": "いわ",
+        "Category": "物理",
+        "Power": 30,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "こわいかお",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "こんげんのはどう",
+        "Type": "みず",
+        "Category": "特殊",
+        "Power": 110,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ゴーストダイブ",
+        "Type": "ゴースト",
+        "Category": "物理",
+        "Power": 90,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ゴールドラッシュ",
+        "Type": "はがね",
+        "Category": "特殊",
+        "Power": 120,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ゴッドバード",
+        "Type": "ひこう",
+        "Category": "物理",
+        "Power": 140,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "さいきのいのり",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "サイケこうせん",
+        "Type": "エスパー",
+        "Category": "特殊",
+        "Power": 65,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "サイコカッター",
+        "Type": "エスパー",
+        "Category": "物理",
+        "Power": 70,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "サイコキネシス",
+        "Type": "エスパー",
+        "Category": "特殊",
+        "Power": 90,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "サイコショック",
+        "Type": "エスパー",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "サイコファング",
+        "Type": "エスパー",
+        "Category": "物理",
+        "Power": 85,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "サイコフィールド",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "サイコブレイク",
+        "Type": "エスパー",
+        "Category": "特殊",
+        "Power": 100,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "サイコブレイド",
+        "Type": "エスパー",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "サイドチェンジ",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "さいはい",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "さいみんじゅつ",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "さきおくり",
+        "Type": "あく",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "さばきのつぶて",
+        "Type": "ノーマル",
+        "Category": "特殊",
+        "Power": 100,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "さむいギャグ",
+        "Type": "こおり",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "さわぐ",
+        "Type": "ノーマル",
+        "Category": "特殊",
+        "Power": 90,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "サンダープリズン",
+        "Type": "でんき",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "シェルアームズ",
+        "Type": "どく",
+        "Category": "特殊",
+        "Power": 90,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "シェルブレード",
+        "Type": "みず",
+        "Category": "物理",
+        "Power": 75,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "しおづけ",
+        "Type": "いわ",
+        "Category": "物理",
+        "Power": 40,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "しおふき",
+        "Type": "みず",
+        "Category": "特殊",
+        "Power": 150,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "しおみず",
+        "Type": "みず",
+        "Category": "特殊",
+        "Power": 65,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "シザークロス",
+        "Type": "むし",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "したでなめる",
+        "Type": "ゴースト",
+        "Category": "物理",
+        "Power": 30,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "しっとのほのお",
+        "Type": "ほのお",
+        "Category": "特殊",
+        "Power": 70,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "しっぺがえし",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": 50,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "しっぽきり",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "しっぽをふる",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "しねんのずつき",
+        "Type": "エスパー",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "しびれごな",
+        "Type": "くさ",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "しめつける",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 15,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "シャドークロー",
+        "Type": "ゴースト",
+        "Category": "物理",
+        "Power": 70,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "シャドーダイブ",
+        "Type": "ゴースト",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "シャドーパンチ",
+        "Type": "ゴースト",
+        "Category": "物理",
+        "Power": 60,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "シャドーボール",
+        "Type": "ゴースト",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "しょうりのまい",
+        "Type": "かくとう",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "しろいきり",
+        "Type": "こおり",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "しんくうは",
+        "Type": "かくとう",
+        "Category": "特殊",
+        "Power": 40,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "しんそく",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "しんぴのちから",
+        "Type": "エスパー",
+        "Category": "特殊",
+        "Power": 70,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "しんぴのまもり",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "シンプルビーム",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "Gのちから",
+        "Type": "くさ",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ジェットパンチ",
+        "Type": "みず",
+        "Category": "物理",
+        "Power": 60,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "じこあんじ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "じこさいせい",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "じごくづき",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "じしん",
+        "Type": "じめん",
+        "Category": "物理",
+        "Power": 100,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "じたばた",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": null,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "じだんだ",
+        "Type": "じめん",
+        "Category": "物理",
+        "Power": 75,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "じならし",
+        "Type": "じめん",
+        "Category": "物理",
+        "Power": 60,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "じばく",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 200,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "じばそうさ",
+        "Type": "でんき",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ジャイロボール",
+        "Type": "はがね",
+        "Category": "物理",
+        "Power": null,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "じゃれつく",
+        "Type": "フェアリー",
+        "Category": "物理",
+        "Power": 90,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ジャングルヒール",
+        "Type": "くさ",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "じゅうでん",
+        "Type": "でんき",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "10まんばりき",
+        "Type": "じめん",
+        "Category": "物理",
+        "Power": 95,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "10まんボルト",
+        "Type": "でんき",
+        "Category": "特殊",
+        "Power": 90,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "じゅうりょく",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "じわれ",
+        "Type": "じめん",
+        "Category": "物理",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "じんつうりき",
+        "Type": "エスパー",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "スイープビンタ",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 25,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "すいとる",
+        "Type": "くさ",
+        "Category": "特殊",
+        "Power": 20,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "すいりゅうれんだ",
+        "Type": "みず",
+        "Category": "物理",
+        "Power": 25,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "スキルスワップ",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "スケイルショット",
+        "Type": "ドラゴン",
+        "Category": "物理",
+        "Power": 25,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "スチームバースト",
+        "Type": "みず",
+        "Category": "特殊",
+        "Power": 110,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "すてゼリフ",
+        "Type": "あく",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "すてみタックル",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ステルスロック",
+        "Type": "いわ",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ストーンエッジ",
+        "Type": "いわ",
+        "Category": "物理",
+        "Power": 100,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "すなあつめ",
+        "Type": "じめん",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "すなあらし",
+        "Type": "いわ",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "すなかけ",
+        "Type": "じめん",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "すなじごく",
+        "Type": "じめん",
+        "Category": "物理",
+        "Power": 35,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "スパーク",
+        "Type": "でんき",
+        "Category": "物理",
+        "Power": 65,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "スピードスター",
+        "Type": "ノーマル",
+        "Category": "特殊",
+        "Power": 60,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "スピードスワップ",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "スマートホーン",
+        "Type": "はがね",
+        "Category": "物理",
+        "Power": 70,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "スモッグ",
+        "Type": "どく",
+        "Category": "特殊",
+        "Power": 30,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "すりかえ",
+        "Type": "あく",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "スレッドトラップ",
+        "Type": "むし",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ずつき",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 70,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "せいちょう",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "せいなるつるぎ",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 90,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ぜったいれいど",
+        "Type": "こおり",
+        "Category": "特殊",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ソーラービーム",
+        "Type": "くさ",
+        "Category": "特殊",
+        "Power": 120,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ソーラーブレード",
+        "Type": "くさ",
+        "Category": "物理",
+        "Power": 125,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ソウルクラッシュ",
+        "Type": "フェアリー",
+        "Category": "物理",
+        "Power": 75,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "そらをとぶ",
+        "Type": "ひこう",
+        "Category": "物理",
+        "Power": 90,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "タールショット",
+        "Type": "いわ",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "たいあたり",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 40,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "たきのぼり",
+        "Type": "みず",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "たくわえる",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "たたきつける",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "たたりめ",
+        "Type": "ゴースト",
+        "Category": "特殊",
+        "Power": 65,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "たつまき",
+        "Type": "ドラゴン",
+        "Category": "特殊",
+        "Power": 40,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "たてこもる",
+        "Type": "はがね",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "タネばくだん",
+        "Type": "くさ",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "タネマシンガン",
+        "Type": "くさ",
+        "Category": "物理",
+        "Power": 25,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "タマゴうみ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "だいちのちから",
+        "Type": "じめん",
+        "Category": "特殊",
+        "Power": 90,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "だいちのはどう",
+        "Type": "ノーマル",
+        "Category": "特殊",
+        "Power": 50,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "だいばくはつ",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 250,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ダイビング",
+        "Type": "みず",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "だいふんげき",
+        "Type": "ほのお",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ダイマックスほう",
+        "Type": "ドラゴン",
+        "Category": "特殊",
+        "Power": 100,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "だいもんじ",
+        "Type": "ほのお",
+        "Category": "特殊",
+        "Power": 110,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ダイヤストーム",
+        "Type": "いわ",
+        "Category": "物理",
+        "Power": 100,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "だくりゅう",
+        "Type": "みず",
+        "Category": "特殊",
+        "Power": 90,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ダストシュート",
+        "Type": "どく",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ダブルアタック",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 35,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ダブルウイング",
+        "Type": "ひこう",
+        "Category": "物理",
+        "Power": 40,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ダメおし",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": 60,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "だんがいのつるぎ",
+        "Type": "じめん",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ちいさくなる",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ちからをすいとる",
+        "Type": "くさ",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ちきゅうなげ",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": null,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "チャージビーム",
+        "Type": "でんき",
+        "Category": "特殊",
+        "Power": 50,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "チャームボイス",
+        "Type": "フェアリー",
+        "Category": "特殊",
+        "Power": 40,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ちょうおんぱ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ちょうのまい",
+        "Type": "むし",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ちょうはつ",
+        "Type": "あく",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ついばむ",
+        "Type": "ひこう",
+        "Category": "物理",
+        "Power": 60,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ツインビーム",
+        "Type": "エスパー",
+        "Category": "特殊",
+        "Power": 40,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "つきのひかり",
+        "Type": "フェアリー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "つけあがる",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": 20,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "つじぎり",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": 70,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "つっぱり",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 15,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "つつく",
+        "Type": "ひこう",
+        "Category": "物理",
+        "Power": 35,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "つのでつく",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 65,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "つのドリル",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": null,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "つばさでうつ",
+        "Type": "ひこう",
+        "Category": "物理",
+        "Power": 60,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "つばめがえし",
+        "Type": "ひこう",
+        "Category": "物理",
+        "Power": 60,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "つぶらなひとみ",
+        "Type": "フェアリー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "つぼをつく",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "つめとぎ",
+        "Type": "あく",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "つららおとし",
+        "Type": "こおり",
+        "Category": "物理",
+        "Power": 85,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "つららばり",
+        "Type": "こおり",
+        "Category": "物理",
+        "Power": 25,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "つるぎのまい",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "つるのムチ",
+        "Type": "くさ",
+        "Category": "物理",
+        "Power": 45,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "てかげん",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 40,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "てだすけ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "てっていこうせん",
+        "Type": "はがね",
+        "Category": "特殊",
+        "Power": 140,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "てっぺき",
+        "Type": "はがね",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "テラバースト",
+        "Type": "ノーマル",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "テレポート",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "てをつなぐ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "てんしのキッス",
+        "Type": "フェアリー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "であいがしら",
+        "Type": "むし",
+        "Category": "物理",
+        "Power": 90,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "DDラリアット",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": 85,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "デカハンマー",
+        "Type": "はがね",
+        "Category": "物理",
+        "Power": 160,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "でんきショック",
+        "Type": "でんき",
+        "Category": "特殊",
+        "Power": 40,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "でんげきは",
+        "Type": "でんき",
+        "Category": "特殊",
+        "Power": 60,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "でんこうせっか",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 40,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "でんこうそうげき",
+        "Type": "でんき",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "でんじは",
+        "Type": "でんき",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "でんじふゆう",
+        "Type": "でんき",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "でんじほう",
+        "Type": "でんき",
+        "Category": "特殊",
+        "Power": 120,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "トーチカ",
+        "Type": "どく",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "とおせんぼう",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "とおぼえ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ときのほうこう",
+        "Type": "ドラゴン",
+        "Category": "特殊",
+        "Power": 150,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "とぐろをまく",
+        "Type": "どく",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "とける",
+        "Type": "どく",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "とっしん",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 90,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "とっておき",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 140,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "とどめばり",
+        "Type": "むし",
+        "Category": "物理",
+        "Power": 50,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "とびかかる",
+        "Type": "むし",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "とびつく",
+        "Type": "むし",
+        "Category": "物理",
+        "Power": 50,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "とびはねる",
+        "Type": "ひこう",
+        "Category": "物理",
+        "Power": 85,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "とびひざげり",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 130,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ともえなげ",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 60,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "トライアタック",
+        "Type": "ノーマル",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "トリック",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "トリックフラワー",
+        "Type": "くさ",
+        "Category": "物理",
+        "Power": 70,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "トリックルーム",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "トリプルアクセル",
+        "Type": "こおり",
+        "Category": "物理",
+        "Power": 20,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "トリプルダイブ",
+        "Type": "みず",
+        "Category": "物理",
+        "Power": 30,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "トロピカルキック",
+        "Type": "くさ",
+        "Category": "物理",
+        "Power": 70,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "とんぼがえり",
+        "Type": "むし",
+        "Category": "物理",
+        "Power": 70,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "どくガス",
+        "Type": "どく",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "どくづき",
+        "Type": "どく",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "どくどく",
+        "Type": "どく",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "どくどくのキバ",
+        "Type": "どく",
+        "Category": "物理",
+        "Power": 50,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "どくのこな",
+        "Type": "どく",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "どくばり",
+        "Type": "どく",
+        "Category": "物理",
+        "Power": 15,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "どくばりセンボン",
+        "Type": "どく",
+        "Category": "物理",
+        "Power": 60,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "どくびし",
+        "Type": "どく",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "どげざつき",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ドゲザン",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": 85,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ドラゴンアロー",
+        "Type": "ドラゴン",
+        "Category": "物理",
+        "Power": 50,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ドラゴンエナジー",
+        "Type": "ドラゴン",
+        "Category": "特殊",
+        "Power": 150,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ドラゴンクロー",
+        "Type": "ドラゴン",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ドラゴンダイブ",
+        "Type": "ドラゴン",
+        "Category": "物理",
+        "Power": 100,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ドラゴンテール",
+        "Type": "ドラゴン",
+        "Category": "物理",
+        "Power": 60,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ドラムアタック",
+        "Type": "くさ",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ドリルくちばし",
+        "Type": "ひこう",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ドリルライナー",
+        "Type": "じめん",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ドレインキッス",
+        "Type": "フェアリー",
+        "Category": "特殊",
+        "Power": 50,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ドレインパンチ",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 75,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "どろかけ",
+        "Type": "じめん",
+        "Category": "特殊",
+        "Power": 20,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "どろぼう",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": 60,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ドわすれ",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ないしょばなし",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ナイトバースト",
+        "Type": "あく",
+        "Category": "特殊",
+        "Power": 85,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ナイトヘッド",
+        "Type": "ゴースト",
+        "Category": "特殊",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "なかまづくり",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "なかよくする",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "なきごえ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "なげつける",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "なまける",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "なみだめ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "なみのり",
+        "Type": "みず",
+        "Category": "特殊",
+        "Power": 90,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "なやみのタネ",
+        "Type": "くさ",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "なりきり",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ニードルガード",
+        "Type": "くさ",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ニトロチャージ",
+        "Type": "ほのお",
+        "Category": "物理",
+        "Power": 50,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "にどげり",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 30,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "にほんばれ",
+        "Type": "ほのお",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "にらみつける",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ねがいごと",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ねこだまし",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 40,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ネコにこばん",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 40,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ねごと",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ネズミざん",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 20,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ねっさのあらし",
+        "Type": "じめん",
+        "Category": "特殊",
+        "Power": 100,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ねっさのだいち",
+        "Type": "じめん",
+        "Category": "特殊",
+        "Power": 70,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ねっとう",
+        "Type": "みず",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ねっぷう",
+        "Type": "ほのお",
+        "Category": "特殊",
+        "Power": 95,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ねばねばネット",
+        "Type": "むし",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ねむりごな",
+        "Type": "くさ",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ねむる",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ねらいうち",
+        "Type": "みず",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ねをはる",
+        "Type": "くさ",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ねんりき",
+        "Type": "エスパー",
+        "Category": "特殊",
+        "Power": 50,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "のしかかり",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 85,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "のみこむ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "のろい",
+        "Type": "ゴースト",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ハートスワップ",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ハードプラント",
+        "Type": "くさ",
+        "Category": "特殊",
+        "Power": 150,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "はいすいのじん",
+        "Type": "かくとう",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ハイドロカノン",
+        "Type": "みず",
+        "Category": "特殊",
+        "Power": 150,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ハイドロスチーム",
+        "Type": "みず",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ハイドロポンプ",
+        "Type": "みず",
+        "Category": "特殊",
+        "Power": 110,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ハイパードリル",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 100,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ハイパーボイス",
+        "Type": "ノーマル",
+        "Category": "特殊",
+        "Power": 90,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "はいよるいちげき",
+        "Type": "むし",
+        "Category": "物理",
+        "Power": 70,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "はかいこうせん",
+        "Type": "ノーマル",
+        "Category": "特殊",
+        "Power": 150,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "はがねのつばさ",
+        "Type": "はがね",
+        "Category": "物理",
+        "Power": 70,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "はきだす",
+        "Type": "ノーマル",
+        "Category": "特殊",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ハサミギロチン",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": null,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "はさむ",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 55,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "はたきおとす",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": 65,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "はたく",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 40,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "はっけい",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 60,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "はっぱカッター",
+        "Type": "くさ",
+        "Category": "物理",
+        "Power": 55,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ハッピータイム",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "はどうだん",
+        "Type": "かくとう",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "はなびらのまい",
+        "Type": "くさ",
+        "Category": "特殊",
+        "Power": 120,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "はなふぶき",
+        "Type": "くさ",
+        "Category": "物理",
+        "Power": 90,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "はねやすめ",
+        "Type": "ひこう",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "はねる",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ハバネロエキス",
+        "Type": "くさ",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "はらだいこ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "はるのあらし",
+        "Type": "フェアリー",
+        "Category": "特殊",
+        "Power": 100,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "バークアウト",
+        "Type": "あく",
+        "Category": "特殊",
+        "Power": 55,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ばかぢから",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ばくおんぱ",
+        "Type": "ノーマル",
+        "Category": "特殊",
+        "Power": 140,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ばくれつパンチ",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 100,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "バトンタッチ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "バブルこうせん",
+        "Type": "みず",
+        "Category": "特殊",
+        "Power": 65,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "バリアーラッシュ",
+        "Type": "エスパー",
+        "Category": "物理",
+        "Power": 70,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "バレットパンチ",
+        "Type": "はがね",
+        "Category": "物理",
+        "Power": 40,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "パラボラチャージ",
+        "Type": "でんき",
+        "Category": "特殊",
+        "Power": 65,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "パワーウィップ",
+        "Type": "くさ",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "パワーシェア",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "パワーシフト",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "パワージェム",
+        "Type": "いわ",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "パワースワップ",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "パワートリック",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ヒートスタンプ",
+        "Type": "ほのお",
+        "Category": "物理",
+        "Power": null,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ひかりのかべ",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ひけん・ちえなみ",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": 65,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ひっかく",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 40,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ひのこ",
+        "Type": "ほのお",
+        "Category": "特殊",
+        "Power": 40,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ひゃっきやこう",
+        "Type": "ゴースト",
+        "Category": "特殊",
+        "Power": 60,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ひやみず",
+        "Type": "みず",
+        "Category": "特殊",
+        "Power": 50,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ひょうざんおろし",
+        "Type": "こおり",
+        "Category": "物理",
+        "Power": 100,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "びりびりちくちく",
+        "Type": "でんき",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ビルドアップ",
+        "Type": "かくとう",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ファストガード",
+        "Type": "かくとう",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ふいうち",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": 70,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ふういん",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "フェアリーロック",
+        "Type": "フェアリー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "フェイタルクロー",
+        "Type": "どく",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "フェイント",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 30,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "フェザーダンス",
+        "Type": "ひこう",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ふきとばし",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ふくろだたき",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ふしょくガス",
+        "Type": "どく",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ふぶき",
+        "Type": "こおり",
+        "Category": "特殊",
+        "Power": 110,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ふみつけ",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 65,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "フライングプレス",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 100,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "フラフラダンス",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "フリーズドライ",
+        "Type": "こおり",
+        "Category": "特殊",
+        "Power": 70,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "フルールカノン",
+        "Type": "フェアリー",
+        "Category": "特殊",
+        "Power": 130,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ふるいたてる",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "フレアソング",
+        "Type": "ほのお",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "フレアドライブ",
+        "Type": "ほのお",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ふんえん",
+        "Type": "ほのお",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ふんか",
+        "Type": "ほのお",
+        "Category": "特殊",
+        "Power": 150,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ふんどのこぶし",
+        "Type": "ゴースト",
+        "Category": "物理",
+        "Power": 50,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "Vジェネレート",
+        "Type": "ほのお",
+        "Category": "物理",
+        "Power": 180,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ぶきみなじゅもん",
+        "Type": "エスパー",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ぶちかまし",
+        "Type": "じめん",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ブラストバーン",
+        "Type": "ほのお",
+        "Category": "特殊",
+        "Power": 150,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ブリザードランス",
+        "Type": "こおり",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ブレイククロー",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 75,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ブレイズキック",
+        "Type": "ほのお",
+        "Category": "物理",
+        "Power": 85,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ブレイブバード",
+        "Type": "ひこう",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ぶんまわす",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": 60,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "プレゼント",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ヘドロウェーブ",
+        "Type": "どく",
+        "Category": "特殊",
+        "Power": 95,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ヘドロこうげき",
+        "Type": "どく",
+        "Category": "特殊",
+        "Power": 65,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ヘドロばくだん",
+        "Type": "どく",
+        "Category": "特殊",
+        "Power": 90,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ヘビーボンバー",
+        "Type": "はがね",
+        "Category": "物理",
+        "Power": null,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "へびにらみ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "へんしん",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ベノムショック",
+        "Type": "どく",
+        "Category": "特殊",
+        "Power": 65,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ホイールスピン",
+        "Type": "はがね",
+        "Category": "物理",
+        "Power": 100,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ほうでん",
+        "Type": "でんき",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ほうふく",
+        "Type": "あく",
+        "Category": "物理",
+        "Power": null,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ほえる",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ほおばる",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ほしがる",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 60,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ほっぺすりすり",
+        "Type": "でんき",
+        "Category": "物理",
+        "Power": 20,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ほのおのうず",
+        "Type": "ほのお",
+        "Category": "特殊",
+        "Power": 35,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ほのおのキバ",
+        "Type": "ほのお",
+        "Category": "物理",
+        "Power": 65,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ほのおのちかい",
+        "Type": "ほのお",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ほのおのパンチ",
+        "Type": "ほのお",
+        "Category": "物理",
+        "Power": 75,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ほのおのまい",
+        "Type": "ほのお",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ほのおのムチ",
+        "Type": "ほのお",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ほろびのうた",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ボーンラッシュ",
+        "Type": "じめん",
+        "Category": "物理",
+        "Power": 25,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ぼうぎょしれい",
+        "Type": "むし",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ぼうふう",
+        "Type": "ひこう",
+        "Category": "特殊",
+        "Power": 110,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ボディプレス",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ボルテッカー",
+        "Type": "でんき",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ボルトチェンジ",
+        "Type": "でんき",
+        "Category": "特殊",
+        "Power": 70,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ポイズンテール",
+        "Type": "どく",
+        "Category": "物理",
+        "Power": 50,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ポルターガイスト",
+        "Type": "ゴースト",
+        "Category": "物理",
+        "Power": 110,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "まきつく",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 15,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "まきびし",
+        "Type": "じめん",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "マグマストーム",
+        "Type": "ほのお",
+        "Category": "特殊",
+        "Power": 100,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "マジカルシャイン",
+        "Type": "フェアリー",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "マジカルフレイム",
+        "Type": "ほのお",
+        "Category": "特殊",
+        "Power": 75,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "マジカルリーフ",
+        "Type": "くさ",
+        "Category": "特殊",
+        "Power": 60,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "マジックルーム",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "マッドショット",
+        "Type": "じめん",
+        "Category": "特殊",
+        "Power": 55,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "マッハパンチ",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 40,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "まとわりつく",
+        "Type": "むし",
+        "Category": "特殊",
+        "Power": 20,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "まねっこ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "まほうのこな",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "まもる",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "まるくなる",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "みかづきのいのり",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "みかづきのまい",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "みがわり",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "みきり",
+        "Type": "かくとう",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ミサイルばり",
+        "Type": "むし",
+        "Category": "物理",
+        "Power": 25,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ミストバースト",
+        "Type": "フェアリー",
+        "Category": "特殊",
+        "Power": 100,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ミストフィールド",
+        "Type": "フェアリー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "みずしゅりけん",
+        "Type": "みず",
+        "Category": "特殊",
+        "Power": 15,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "みずでっぽう",
+        "Type": "みず",
+        "Category": "特殊",
+        "Power": 40,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "みずのちかい",
+        "Type": "みず",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "みずのはどう",
+        "Type": "みず",
+        "Category": "特殊",
+        "Power": 60,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "みずびたし",
+        "Type": "みず",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "みだれづき",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 15,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "みだれひっかき",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 18,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "みちづれ",
+        "Type": "ゴースト",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "みねうち",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 40,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ミラーコート",
+        "Type": "エスパー",
+        "Category": "特殊",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ミラータイプ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "みらいよち",
+        "Type": "エスパー",
+        "Category": "特殊",
+        "Power": 120,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ミルクのみ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "みをけずる",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ムーンフォース",
+        "Type": "フェアリー",
+        "Category": "特殊",
+        "Power": 95,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "むしくい",
+        "Type": "むし",
+        "Category": "物理",
+        "Power": 60,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "むしのさざめき",
+        "Type": "むし",
+        "Category": "特殊",
+        "Power": 90,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "むしのていこう",
+        "Type": "むし",
+        "Category": "特殊",
+        "Power": 50,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "むねんのつるぎ",
+        "Type": "ほのお",
+        "Category": "物理",
+        "Power": 90,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "めいそう",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "メガトンキック",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "メガトンパンチ",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 80,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "メガドレイン",
+        "Type": "くさ",
+        "Category": "特殊",
+        "Power": 40,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "メガホーン",
+        "Type": "むし",
+        "Category": "物理",
+        "Power": 120,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "めざめるダンス",
+        "Type": "ノーマル",
+        "Category": "特殊",
+        "Power": 90,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "メタルクロー",
+        "Type": "はがね",
+        "Category": "物理",
+        "Power": 50,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "メタルバースト",
+        "Type": "はがね",
+        "Category": "物理",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "メテオビーム",
+        "Type": "いわ",
+        "Category": "特殊",
+        "Power": 120,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "メロメロ",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "もえあがるいかり",
+        "Type": "あく",
+        "Category": "特殊",
+        "Power": 90,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "もえつきる",
+        "Type": "ほのお",
+        "Category": "特殊",
+        "Power": 130,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ものまね",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "もろはのずつき",
+        "Type": "いわ",
+        "Category": "物理",
+        "Power": 150,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "やきつくす",
+        "Type": "ほのお",
+        "Category": "特殊",
+        "Power": 60,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "やどりぎのタネ",
+        "Type": "くさ",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ゆきげしき",
+        "Type": "こおり",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ゆきなだれ",
+        "Type": "こおり",
+        "Category": "物理",
+        "Power": 60,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ゆびをふる",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ゆめくい",
+        "Type": "エスパー",
+        "Category": "特殊",
+        "Power": 100,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ようかいえき",
+        "Type": "どく",
+        "Category": "特殊",
+        "Power": 40,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ようせいのかぜ",
+        "Type": "フェアリー",
+        "Category": "特殊",
+        "Power": 40,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ライジングボルト",
+        "Type": "でんき",
+        "Category": "特殊",
+        "Power": 70,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "らいめいげり",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 90,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ラスターカノン",
+        "Type": "はがね",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "リーフストーム",
+        "Type": "くさ",
+        "Category": "特殊",
+        "Power": 130,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "リーフブレード",
+        "Type": "くさ",
+        "Category": "物理",
+        "Power": 90,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "リサイクル",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "リフレクター",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "りゅうせいぐん",
+        "Type": "ドラゴン",
+        "Category": "特殊",
+        "Power": 130,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "りゅうのいぶき",
+        "Type": "ドラゴン",
+        "Category": "特殊",
+        "Power": 60,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "りゅうのはどう",
+        "Type": "ドラゴン",
+        "Category": "特殊",
+        "Power": 85,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "りゅうのまい",
+        "Type": "ドラゴン",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "りんごさん",
+        "Type": "くさ",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "りんしょう",
+        "Type": "ノーマル",
+        "Category": "特殊",
+        "Power": 60,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ルミナコリジョン",
+        "Type": "エスパー",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "レイジングブル",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 90,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "れいとうパンチ",
+        "Type": "こおり",
+        "Category": "物理",
+        "Power": 75,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "れいとうビーム",
+        "Type": "こおり",
+        "Category": "特殊",
+        "Power": 90,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "れんごく",
+        "Type": "ほのお",
+        "Category": "特殊",
+        "Power": 100,
+        "Contact": false,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "れんぞくぎり",
+        "Type": "むし",
+        "Category": "物理",
+        "Power": 40,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ローキック",
+        "Type": "かくとう",
+        "Category": "物理",
+        "Power": 65,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ロックオン",
+        "Type": "ノーマル",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ロックカット",
+        "Type": "いわ",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ロックブラスト",
+        "Type": "いわ",
+        "Category": "物理",
+        "Power": 25,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ワイドガード",
+        "Type": "いわ",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ワイドフォース",
+        "Type": "エスパー",
+        "Category": "特殊",
+        "Power": 80,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ワイドブレイカー",
+        "Type": "ドラゴン",
+        "Category": "物理",
+        "Power": 60,
+        "Contact": true,
+        "AdditionalEffect": true
+    },
+    {
+        "Name": "ワイルドボルト",
+        "Type": "でんき",
+        "Category": "物理",
+        "Power": 90,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "わたほうし",
+        "Type": "くさ",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "わるあがき",
+        "Type": "ノーマル",
+        "Category": "物理",
+        "Power": 50,
+        "Contact": true,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "わるだくみ",
+        "Type": "あく",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    },
+    {
+        "Name": "ワンダールーム",
+        "Type": "エスパー",
+        "Category": "変化",
+        "Power": null,
+        "Contact": false,
+        "AdditionalEffect": false
+    }
+]

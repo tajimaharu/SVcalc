@@ -33,6 +33,7 @@ module.exports = {
         unnamedComponents: "arrow-function",
       },
     ],
+    "react/jsx-props-no-spreading": "off",
     "react/prop-types": "off",
     "@typescript-eslint/no-unused-vars": "off",
     "unused-imports/no-unused-imports": "warn",

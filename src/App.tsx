@@ -16,6 +16,7 @@ import {
   Select,
 } from "@chakra-ui/react";
 import { useState } from "react";
+import ReactFileRender from "react-file-reader";
 import { useForm } from "react-hook-form";
 
 import EFFORT_VALUES from "./datas/effort_value";
@@ -29,11 +30,33 @@ const App = () => {
   const extraBox = useBreakpointValue({ base: true, xl: false }, { ssr: false });
 
   const [PlayerData, setPlayerData] = useState({ PlayerItem: "", PlayerTeratipo: "" });
+  const [PlayerItem, setPlayerItem] = useState("");
+  const [PlayerAbility, setPlayerAbility] = useState("");
+  const [PlayerAbilityCheck, setPlayerCheck] = useState(false);
+  const [PlayerTeratipo, setPlayerTeratipo] = useState("");
+  const [PlayerAttack, setPlayerAttack] = useState(0);
+  const [PlayerDefence, setPlayerDefence] = useState(0);
+
   const [EnemyData, setEnemyData] = useState({ EnemyTeratipo: "", EnemyItem: "", EnemyEffort: "" });
+  const [EnemyEffort, setEnemyEffort] = useState("");
+  const [EnemyItem, setEnemyItem] = useState("");
+  const [EnemyAbility, setEnemyAbility] = useState("");
+  const [EnemyAbilityCheck, setEnemyCheck] = useState(false);
+  const [EnemyTeratipo, setEnemyTeratipo] = useState("");
+  const [EnemyAttack, setEnemyAttack] = useState(0);
+  const [EnemyDefence, setEnemyDefence] = useState(0);
+
   const { register, watch } = useForm();
   const watchAll = watch();
   console.log(watchAll);
-  console.log(PlayerData);
+
+  const uploadFile = (files) => {
+    const read = new FileReader();
+    read.onload = function (e) {
+      alert(read.result);
+    };
+    read.readAsText(files[0]);
+  };
 
   return (
     <Box>
@@ -79,7 +102,9 @@ const App = () => {
             </GridItem>
             <GridItem colSpan={1}>
               <Center h="100%">
-                <IconButton aria-label="ReadButton" icon={<EditIcon />} />
+                <ReactFileRender handleFiles={uploadFile} fileTypes=".csv">
+                  <IconButton aria-label="ReadButton" icon={<EditIcon />} />
+                </ReactFileRender>
               </Center>
             </GridItem>
             {/* スペーサー */}
@@ -94,7 +119,11 @@ const App = () => {
               <Text fontSize={{ base: "sm", md: "md" }}>道具</Text>
             </GridItem>
             <GridItem colSpan={4}>
-              <Select id="PlayerItem" {...register("PlayerItem")} onChange={(e) => console.log(e.)}>
+              <Select
+                id="PlayerItem"
+                {...register("PlayerItem")}
+                onChange={(e) => setPlayerItem(e.target.value)}
+              >
                 <option hidden value="">
                   -
                 </option>
@@ -111,11 +140,15 @@ const App = () => {
             <GridItem colSpan={3} bg="tomato" />
             <GridItem colSpan={1} bg="tomato" />
             <GridItem colSpan={2}>
-              <Select id="PlayerTeratipo" {...register("PlayerTeratipo")}>
+              <Select
+                id="PlayerTeratipo"
+                {...register("PlayerTeratipo")}
+                onChange={(e) => setPlayerTeratipo(e.target.value)}
+              >
                 <option value="">-</option>
-                {TYPES.map((PlayerTeratipo) => (
-                  <option key={PlayerTeratipo.name} value={PlayerTeratipo.name}>
-                    {PlayerTeratipo.name}
+                {TYPES.map((value) => (
+                  <option key={value.name} value={value.name}>
+                    {value.name}
                   </option>
                 ))}
               </Select>
@@ -218,7 +251,12 @@ const App = () => {
             </GridItem>
             <GridItem colSpan={2} bg="papayawhip" />
             <GridItem colSpan={5}>
-              <Select h="30.63px" id="EnemyEffort" {...register("EnemyEffort")}>
+              <Select
+                h="30.63px"
+                id="EnemyEffort"
+                {...register("EnemyEffort")}
+                onChange={(e) => setEnemyEffort(e.target.value)}
+              >
                 <option>-</option>
                 {EFFORT_VALUES.map((effort_value) => (
                   <option key={effort_value} value={effort_value}>
@@ -236,7 +274,11 @@ const App = () => {
               <Text fontSize={{ base: "sm", md: "md" }}>道具</Text>
             </GridItem>
             <GridItem colSpan={4}>
-              <Select id="EnemyItem" {...register("EnemyItem")}>
+              <Select
+                id="EnemyItem"
+                {...register("EnemyItem")}
+                onChange={(e) => setEnemyItem(e.target.value)}
+              >
                 <option hidden value="">
                   -
                 </option>
@@ -253,11 +295,15 @@ const App = () => {
             <GridItem colSpan={3} bg="tomato" />
             <GridItem colSpan={1} bg="tomato" />
             <GridItem colSpan={2}>
-              <Select id="EnemyTeratipo" {...register("EnemyTeratipo")}>
+              <Select
+                id="EnemyTeratipo"
+                {...register("EnemyTeratipo")}
+                onChange={(e) => setEnemyTeratipo(e.target.value)}
+              >
                 <option value="">-</option>
-                {TYPES.map((EnemyTeratipo) => (
-                  <option key={EnemyTeratipo.name} value={EnemyTeratipo.name}>
-                    {EnemyTeratipo.name}
+                {TYPES.map((value) => (
+                  <option key={value.name} value={value.name}>
+                    {value.name}
                   </option>
                 ))}
               </Select>
