@@ -48,12 +48,28 @@ const App = () => {
 
   const { register, watch } = useForm();
   const watchAll = watch();
-  console.log(watchAll);
 
+  const Playerlist: Array<string> = [];
+  const iconArray: Array<number> = [];
+  console.log(Playerlist.length);
+  watch(Playerlist);
+
+  let tmp = [];
+  function makeCSV(csvdata) {
+    tmp = csvdata.split("\n");
+    for (let i = 0; i < tmp.length; i += 1) {
+      const rowData = tmp[i];
+      Playerlist[i] = rowData.split(",");
+      iconArray[i] = POKEMONS.findIndex((p) => p.Name === Playerlist[i][0]);
+    }
+    console.log(Playerlist.length);
+    console.log(iconArray);
+  }
   const uploadFile = (files) => {
     const read = new FileReader();
     read.onload = function (e) {
-      alert(read.result);
+      const result = e.target?.result;
+      makeCSV(result);
     };
     read.readAsText(files[0]);
   };
@@ -83,22 +99,22 @@ const App = () => {
             )}
 
             <GridItem colSpan={1} borderWidth="1px">
-              <Image src={POKEMONS[0].icon} />
+              {Playerlist.length !== 0 && <Image src={POKEMONS[iconArray[0]].Icon} />}
             </GridItem>
             <GridItem colSpan={1} borderWidth="1px">
-              <Image src={POKEMONS[1].icon} />
+              {Playerlist.length !== 0 && <Image src={POKEMONS[iconArray[1]].Icon} />}
             </GridItem>
             <GridItem colSpan={1} borderWidth="1px">
-              <Image src={POKEMONS[2].icon} />
+              {Playerlist.length !== 0 && <Image src={POKEMONS[iconArray[2]].Icon} />}
             </GridItem>
             <GridItem colSpan={1} borderWidth="1px">
-              <Image src={POKEMONS[3].icon} />
+              {Playerlist.length !== 0 && <Image src={POKEMONS[iconArray[3]].Icon} />}
             </GridItem>
             <GridItem colSpan={1} borderWidth="1px">
-              <Image src={POKEMONS[4].icon} />
+              <Image src={POKEMONS[4].Icon} />
             </GridItem>
             <GridItem colSpan={1} borderWidth="1px">
-              <Image src={POKEMONS[5].icon} />
+              <Image src={POKEMONS[5].Icon} />
             </GridItem>
             <GridItem colSpan={1}>
               <Center h="100%">
@@ -112,7 +128,7 @@ const App = () => {
 
             <GridItem colSpan={2} rowSpan={2}>
               <Center>
-                <Image src={POKEMONS[0].icon} border="solid 1px" />
+                <Image src={POKEMONS[680].Icon} border="solid 1px" />
               </Center>
             </GridItem>
             <GridItem colSpan={1}>
@@ -227,22 +243,22 @@ const App = () => {
           >
             <GridItem colSpan={7} />
             <GridItem colSpan={1} borderWidth="1px">
-              <Image src={POKEMONS[0].icon} />
+              <Image src={POKEMONS[0].Icon} />
             </GridItem>
             <GridItem colSpan={1} borderWidth="1px">
-              <Image src={POKEMONS[1].icon} />
+              <Image src={POKEMONS[1].Icon} />
             </GridItem>
             <GridItem colSpan={1} borderWidth="1px">
-              <Image src={POKEMONS[2].icon} />
+              <Image src={POKEMONS[2].Icon} />
             </GridItem>
             <GridItem colSpan={1} borderWidth="1px">
-              <Image src={POKEMONS[3].icon} />
+              <Image src={POKEMONS[3].Icon} />
             </GridItem>
             <GridItem colSpan={1} borderWidth="1px">
-              <Image src={POKEMONS[4].icon} />
+              <Image src={POKEMONS[4].Icon} />
             </GridItem>
             <GridItem colSpan={1} borderWidth="1px">
-              <Image src={POKEMONS[5].icon} />
+              <Image src={POKEMONS[5].Icon} />
             </GridItem>
             <GridItem colSpan={1}>
               <Center h="100%">
@@ -267,7 +283,7 @@ const App = () => {
             </GridItem>
             <GridItem colSpan={2} rowSpan={2}>
               <Center>
-                <Image src={POKEMONS[0].icon} border="solid 1px" />
+                <Image src={POKEMONS[0].Icon} border="solid 1px" />
               </Center>
             </GridItem>
             <GridItem colSpan={1}>
