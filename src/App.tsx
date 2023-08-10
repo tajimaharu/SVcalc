@@ -15,7 +15,7 @@ import {
   IconButton,
   Select,
 } from "@chakra-ui/react";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import ReactFileRender from "react-file-reader";
 import { useForm } from "react-hook-form";
 
@@ -24,11 +24,25 @@ import ITEMS from "./datas/items";
 import POKEMONS from "./datas/pokemons";
 import TYPES from "./datas/types";
 
+type PokemonDate = {
+  name: string;
+  nature: string;
+  h_ev: number;
+  a_ev: number;
+  b_ev: number;
+  c_ev: number;
+  d_ev: number;
+  s_ev: number;
+  item: string;
+};
+
 const App = () => {
   const isSm = useBreakpointValue({ base: true, sm: false }, { ssr: false });
   const isMobile = useBreakpointValue({ base: true, lg: false }, { ssr: false });
   const extraBox = useBreakpointValue({ base: true, xl: false }, { ssr: false });
 
+  const [Playerlist, setPlayerlist] = useState<PokemonDate[]>([]);
+  const [PlayerIconArray, setPlayerIconArray] = useState([]);
   const [PlayerData, setPlayerData] = useState({ PlayerItem: "", PlayerTeratipo: "" });
   const [PlayerItem, setPlayerItem] = useState("");
   const [PlayerAbility, setPlayerAbility] = useState("");
@@ -49,31 +63,42 @@ const App = () => {
   const { register, watch } = useForm();
   const watchAll = watch();
 
-  const Playerlist: Array<string> = [];
-  const iconArray: Array<number> = [];
-  console.log(Playerlist.length);
-  watch(Playerlist);
-
   let tmp = [];
-  function makeCSV(csvdata) {
+  function loadDate(csvdata: string) {
     tmp = csvdata.split("\n");
-    for (let i = 0; i < tmp.length; i += 1) {
-      const rowData = tmp[i];
-      Playerlist[i] = rowData.split(",");
-      iconArray[i] = POKEMONS.findIndex((p) => p.Name === Playerlist[i][0]);
-    }
-    console.log(Playerlist.length);
-    console.log(iconArray);
+
+    const pokemonDataList = tmp.map((rowData) => {
+      const value = rowData.split(",");
+      const PokemonDate: PokemonDate = {
+        name: value[0],
+        nature: value[1],
+        h_ev: Number(value[2]),
+        a_ev: Number(value[3]),
+        b_ev: Number(value[4]),
+        c_ev: Number(value[5]),
+        d_ev: Number(value[6]),
+        s_ev: Number(value[7]),
+        item: value[8],
+      };
+      return PokemonDate;
+    });
+
+    setPlayerlist(pokemonDataList);
+    // setPlayerIconArray(POKEMONS.findIndex((p) => p.Name === Playerlist[i][0]));
   }
+
   const uploadFile = (files) => {
     const read = new FileReader();
     read.onload = function (e) {
       const result = e.target?.result;
-      makeCSV(result);
+      loadDate(result);
     };
     read.readAsText(files[0]);
   };
 
+  useEffect(() => {
+    console.log(Playerlist);
+  }, [Playerlist]);
   return (
     <Box>
       <SimpleGrid
@@ -99,22 +124,46 @@ const App = () => {
             )}
 
             <GridItem colSpan={1} borderWidth="1px">
-              {Playerlist.length !== 0 && <Image src={POKEMONS[iconArray[0]].Icon} />}
+              {Playerlist.length >= 1 && (
+                <Image
+                  src={POKEMONS[POKEMONS.findIndex((p) => p.Name === Playerlist[0].name)].Icon}
+                />
+              )}
             </GridItem>
             <GridItem colSpan={1} borderWidth="1px">
-              {Playerlist.length !== 0 && <Image src={POKEMONS[iconArray[1]].Icon} />}
+              {Playerlist.length >= 2 && (
+                <Image
+                  src={POKEMONS[POKEMONS.findIndex((p) => p.Name === Playerlist[1].name)].Icon}
+                />
+              )}
             </GridItem>
             <GridItem colSpan={1} borderWidth="1px">
-              {Playerlist.length !== 0 && <Image src={POKEMONS[iconArray[2]].Icon} />}
+              {Playerlist.length >= 3 && (
+                <Image
+                  src={POKEMONS[POKEMONS.findIndex((p) => p.Name === Playerlist[2].name)].Icon}
+                />
+              )}
             </GridItem>
             <GridItem colSpan={1} borderWidth="1px">
-              {Playerlist.length !== 0 && <Image src={POKEMONS[iconArray[3]].Icon} />}
+              {Playerlist.length >= 4 && (
+                <Image
+                  src={POKEMONS[POKEMONS.findIndex((p) => p.Name === Playerlist[3].name)].Icon}
+                />
+              )}
             </GridItem>
             <GridItem colSpan={1} borderWidth="1px">
-              <Image src={POKEMONS[4].Icon} />
+              {Playerlist.length >= 5 && (
+                <Image
+                  src={POKEMONS[POKEMONS.findIndex((p) => p.Name === Playerlist[4].name)].Icon}
+                />
+              )}
             </GridItem>
             <GridItem colSpan={1} borderWidth="1px">
-              <Image src={POKEMONS[5].Icon} />
+              {Playerlist.length >= 6 && (
+                <Image
+                  src={POKEMONS[POKEMONS.findIndex((p) => p.Name === Playerlist[5].name)].Icon}
+                />
+              )}
             </GridItem>
             <GridItem colSpan={1}>
               <Center h="100%">
